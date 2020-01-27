@@ -21,7 +21,7 @@
 	--bgImage: url(https://img5.goodfon.com/original/2560x1440/9/24/astronaut-propast-noch-nebo-planeta-fantastika-skafandr.jpg);
 	--HomeButtonImg: url(https://arudarin.github.io/themes/neutron/import/homeBtn.png);
 	--brightness: 0.4;
-	--customFont: 'Montserrat';
+	--customFont: 'Roboto';
 	--PrimaryColor01: rgb(32, 197, 119);
 	--PrimaryColorRGBA: rgba(32, 197, 119, 0.15);
 	--PrimaryColor02: #07a8c5;
@@ -34,8 +34,8 @@
 	--WarningColor02: #cc9900;
 	--SuccesColor02: #1e7b34;
 	--InfoColor02: #117888;
-	--DefaultColor: #6c757d;
-	--DefaultColor02: #5a6268;
+	--DefaultColor: #0000ffff;
+	--DefaultColor02: #0000ffff;
 	--ChatTextColor: hsla(0, 100%, 100%, 1);
 	--RoleTitleColor: hsla(0, 100%, 100%, .95);
 	--UserPlayingTextColor: hsla(0, 100%, 100%, .6);
@@ -46,8 +46,8 @@
 	--NTBackgroundColor02: #2b3039;
 	--NTBackgroundColor03: #282c34;
 	--NTBackgroundColor04: #21252c;
-	--versionText: "Neutron X v6.0.47";
-	--version: "v6.0.47"
+	--versionText: "Record III";
+	--version: "v3"
 }
 
 a {
