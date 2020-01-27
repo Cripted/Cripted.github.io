@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url(https://fonts.googleapis.com/css?family=Roboto);
 
 @import url("https://tropix126.github.io/BetterDiscordStuff/blockBetterDocs.css");
 
@@ -34,8 +34,8 @@
 	--WarningColor02: #cc9900;
 	--SuccesColor02: #1e7b34;
 	--InfoColor02: #117888;
-	--DefaultColor: #0000ffff;
-	--DefaultColor02: #0000ffff;
+	--DefaultColor: #23272A;
+	--DefaultColor02: #23272A;
 	--ChatTextColor: hsla(0, 100%, 100%, 1);
 	--RoleTitleColor: hsla(0, 100%, 100%, .95);
 	--UserPlayingTextColor: hsla(0, 100%, 100%, .6);
